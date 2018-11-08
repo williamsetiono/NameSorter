@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Sorter\Sorter\UnitTestSorter\bin\Debug\UnitTestSorter.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Sorter\Sorter\UnitTestSorter\bin\Debug\UnitTestSorter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Sorter\Sorter\UnitTestSorter\bin\Debug\Sorter.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Sorter\Sorter\UnitTestSorter\bin\Debug\Sorter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Sorter\Sorter\UnitTestSorter\obj\Debug\UnitTestSorter.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Sorter\Sorter\UnitTestSorter\obj\Debug\UnitTestSorter.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Sorter\Sorter\UnitTestSorter\obj\Debug\UnitTestSorter.pdb
